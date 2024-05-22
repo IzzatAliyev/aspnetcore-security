@@ -2,3 +2,4 @@ bin/
 obj/
 Properties/
 appsettings.json
+.DS_Store
